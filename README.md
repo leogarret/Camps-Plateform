@@ -1,3 +1,5 @@
 # Camps Plateform
 
-Camps plateform for teks projects
+Camps plateform is a little project who are developped by my self.
+
+It's developped with Bootstrap.
